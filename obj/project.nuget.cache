@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "glmqfZbbS5vxlWIVC2IoOYQOb7ojB8HuWX9kQGW8YaBVn68FXya5mJvMViSk7+CsP7LsjOv2+5vb2qyr/5AtjA==",
+  "success": true,
+  "projectFilePath": "/Users/nergiznadirli/Projects/quiz0701/quiz0701/quiz0701.csproj",
+  "expectedPackageFiles": [
+    "/Users/nergiznadirli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nergiznadirli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/nergiznadirli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
